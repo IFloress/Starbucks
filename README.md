@@ -1,2 +1,2 @@
 # Starbucks
-Project for the course B7WEB
+Starbucks projeto b7web
